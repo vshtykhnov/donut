@@ -1,0 +1,6 @@
+ultralytics>=8.2
+Pillow
+transformers==4.40.2
+torch
+accelerate>=1.3.0
+
